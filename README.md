@@ -1,5 +1,7 @@
 <div align="center">
-  <a href="[https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE](https://youtu.be/-QVpJNYLVzM)"><img src="insert_your_project_image_url_here" alt="Project Video" width="500px"></a>
+  <a href="https://youtu.be/-QVpJNYLVzM">
+    <img src="https://github.com/your_username/your_repository_name/raw/main/path/to/cover_photo.jpg" alt="Project Introduction Video" width="500px">
+  </a>
   <h1>House Price Prediction</h1>
   <p><i>Predicting house sale prices using machine learning in King County, Seattle</i></p>
 </div>
