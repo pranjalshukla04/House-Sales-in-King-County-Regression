@@ -1,10 +1,12 @@
+## Project Introduction Video
 <div align="center">
   <a href="https://youtu.be/-QVpJNYLVzM">
-    <img src="https://github.com/your_username/your_repository_name/raw/main/path/to/cover_photo.jpg" alt="Project Introduction Video" width="500px">
+    <img src="https://github.com/pranjalshukla04/House-Sales-in-King-County-Regression/raw/main/TIMELINE.png" alt="Project Introduction Video" width="1000px">
   </a>
   <h1>House Price Prediction</h1>
   <p><i>Predicting house sale prices using machine learning in King County, Seattle</i></p>
 </div>
+
 
 <p align="center">
   <a href="#about">About</a> •
