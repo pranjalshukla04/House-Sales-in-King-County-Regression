@@ -30,13 +30,15 @@
 ## About
 Welcome to the House Price Prediction project! This repository contains code and analysis to predict house sale prices in King County, Seattle. The project utilizes machine learning techniques to provide insights and accurate predictions for the real estate market.
 
-## Dataset
-The dataset comprises house sale records between May 2014 and May 2015. It includes various features such as bedrooms, bathrooms, square footage, condition, grade, and more.
 
 ## Motivation
 The goal of this project is to develop a reliable model that can predict house prices accurately. This has practical applications for both buyers and sellers in the real estate market, enabling informed decisions and better understanding of property values.
 
 ## Project Overview
+<p align="center">
+  <img src="https://github.com/pranjalshukla04/House-Sales-in-King-County-Regression/raw/main/Images/CRONOLOGY.png" alt="Project Chronology" width="1000" />
+</p>
+
 This project takes you through the following stages:
 - Data cleaning and preprocessing to ensure data quality.
 - Exploratory Data Analysis (EDA) to gain insights and identify patterns.
@@ -45,6 +47,12 @@ This project takes you through the following stages:
 - Hyperparameter tuning to optimize model performance.
 - Comparing and analyzing model results.
 - Drawing conclusions based on model performances and insights gained.
+
+## Dataset
+The dataset comprises house sale records between May 2014 and May 2015. It includes various features such as bedrooms, bathrooms, square footage, condition, grade, and more.
+<p align="center">
+  <img src="https://github.com/pranjalshukla04/House-Sales-in-King-County-Regression/blob/main/Images/VAR.png" />
+</p>
 
 2. Open the `House_Price_Prediction.ipynb` notebook and follow the step-by-step guide.
 
@@ -77,12 +85,30 @@ This project takes you through the following stages:
 13. Conclude the Best Model for House Price Prediction
 
 ## Exploratory Data Analysis (EDA)
+<p align="center">
+  <img src="https://github.com/pranjalshukla04/House-Sales-in-King-County-Regression/raw/main/Images/UV.png" alt="Underlying Variables" width="1000" />
+</p>
+<p align="center">
+  <img src="https://github.com/pranjalshukla04/House-Sales-in-King-County-Regression/blob/main/Images/BV.png" alt="Image 1" width="1000" />
+  </p>
+
+</p>
+<p align="center">
+  <img src="https://github.com/pranjalshukla04/House-Sales-in-King-County-Regression/raw/main/Images/HEATMAP.png" alt="Heatmap" width="1000" />
+</p>
+
+
+
 Explore data distributions, correlations, and visualize patterns in the data. Visualizations include histograms, scatter plots, and correlation heatmaps.
 
 ## Model Training and Evaluation
 Implement and train machine learning models, optimize hyperparameters, and evaluate performance using R-squared and RMSE metrics.
 
 ## Results
+<p align="center">
+  <img src="https://github.com/pranjalshukla04/House-Sales-in-King-County-Regression/raw/main/Images/MODEL%20PERFORMANCE.png" alt="Model Performance" width="1000" />
+</p>
+
 After thorough analysis and model evaluation:
 - Linear Regression: R2-Score: 0.6807, RMSE: 203796.0159
 - Decision Tree: R2-Score: 0.7043, RMSE: 196142.2947
@@ -91,6 +117,10 @@ After thorough analysis and model evaluation:
 - Polynomial Regression (Degree 3): R2-Score: -6250056939565539.0, MSE: 8.76672289925631e+26
 
 ## Conclusion
+<p align="center">
+  <img src="https://github.com/pranjalshukla04/House-Sales-in-King-County-Regression/raw/main/Images/21.png" alt="Image 21" width="1000" />
+</p>
+
 The Random Forest model emerges as the best-performing model for predicting house prices, achieving an impressive R2-Score of 0.8710 and a low RMSE. The project's comprehensive analysis and well-implemented machine learning techniques provide valuable insights into the real estate market. Feel free to explore the Jupyter notebook for a detailed project walkthrough.
 
 ## Contact
