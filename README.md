@@ -1,7 +1,7 @@
 ## Project Introduction Video
 <div align="center">
   <a href="https://youtu.be/-QVpJNYLVzM">
-    <img src="https://github.com/pranjalshukla04/House-Sales-in-King-County-Regression/raw/main/TIMELINE.png" alt="Project Introduction Video" width="1000px">
+    <img src="https://github.com/pranjalshukla04/House-Sales-in-King-County-Regression/blob/main/Images/TIMELINE.png" alt="Project Introduction Video" width="1000px">
   </a>
   <h1>House Price Prediction</h1>
   <p><i>Predicting house sale prices using machine learning in King County, Seattle</i></p>
